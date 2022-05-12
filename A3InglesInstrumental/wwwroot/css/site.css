@@ -1,0 +1,52 @@
+
+#container {
+    background-color: #346a84;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+#linkforms {
+    padding-right: 3cm;
+}
+
+.container-fluid {
+    color: #fff;
+}
+
+li {
+    font-size: 120%;
+    text-align: center;
+    display: inline-block;
+}
+
+html, body {
+    background-color: #fff;
+    padding: 0px;
+}
+
+#carouselSlide {
+    padding-top: 7%;
+    height: auto;
+    align-items: center;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#carouselExampleIndicators {
+    padding-top: 7%;
+   
+}
+p {
+    font-size: 25px;
+}
+#footerId {
+    text-align: center;
+}
+img {
+    width: 200px;
+    height: 200px
+}
